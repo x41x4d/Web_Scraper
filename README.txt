@@ -1,0 +1,1 @@
+This is a Python script to simply parse for all links contained in an HTML document.
